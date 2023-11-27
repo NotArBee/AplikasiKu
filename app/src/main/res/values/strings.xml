@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplikasiKu</string>
+    <string name="logo_name">AplikasiKu</string>
+    <string name="welcome_aplikasiku">Welcome To AplikasiKu</string>
+    <string name="sub_welcome">Whats going to happen tomorrow?</string>
+    <string name="login">LOGIN</string>
+</resources>
